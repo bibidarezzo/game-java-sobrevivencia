@@ -28,4 +28,4 @@ onde o jogador toma decisões a cada rodada.
 
 -> Desenvolvedora
 **Gabriela Darezzo Gomes** — Estudante de Sistema da Informação, buscando oportunidade de estágio.  
-📧 bibidarezzo@gmail.com | 💼 linkedin.com/in/gabriela-darezzo
+📧 bibidarezzo@gmail.com | 💼 https://www.linkedin.com/in/gabriela-darezzo
