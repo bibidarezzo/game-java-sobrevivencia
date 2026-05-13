@@ -1,6 +1,6 @@
--Jogo de Sobrevivência em Java
+Jogo de Sobrevivência em Java!
 
-Jogo desenvolvido em Java com interface gráfica via JOptionPane,
+-Jogo desenvolvido em Java com interface gráfica via JOptionPane,
 onde o jogador toma decisões a cada rodada.
 
 -> Como jogar:
