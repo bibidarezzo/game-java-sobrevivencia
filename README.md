@@ -3,7 +3,7 @@ Jogo de Sobrevivência em Java!
 -Jogo desenvolvido em Java com interface gráfica via JOptionPane,
 onde o jogador toma decisões a cada rodada.
 
--> Como jogar:
+-> Manual do jogo:
 - Gerencie energia, fome e cansaço do seu personagem
 - Ações disponíveis: Caçar, Comer e Dormir
 - Vença acumulando 10 de experiência
